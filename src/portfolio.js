@@ -62,9 +62,8 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+        "⚡ Developing highly scalable production ready models for various deeplearning use cases",
         "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
         {
@@ -108,9 +107,8 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "⚡ Setting up training jobs on Google Cloud and AWS",
         "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
         {
