@@ -538,7 +538,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "A collection of projects spanning diffusion-based image generation, DiT model serving, transformer optimization, time-series forecasting, NLP prediction, and open-source contributions.",
   avatar_image_path: "projects_image.svg",
 };
 
