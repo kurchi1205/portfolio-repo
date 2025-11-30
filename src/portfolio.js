@@ -407,7 +407,7 @@ const experience = {
           color: "#000000",
         },
         {
-          title: "Machine Learning Engineer",
+          title: "Data Scientist",
           company: "Sivi.AI",
           company_url:
             "https://sivi.ai/?srsltid=AfmBOoqcT-x-bkF70Do07T3-bfgqgWS1yICz-56FEZdiIaZZ_a1jTKPL",
